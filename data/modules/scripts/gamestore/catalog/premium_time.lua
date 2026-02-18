@@ -40,7 +40,7 @@ return {
 		{
 			icons = { "Premium_Time_30.png" },
 			name = string.format("30 Days of %s", premiumOfferName),
-			price = 250,
+			price = 150,
 			id = 3030,
 			validUntil = 30,
 			description = premiumDescription,
@@ -49,7 +49,7 @@ return {
 		{
 			icons = { "Premium_Time_90.png" },
 			name = string.format("90 Days of %s", premiumOfferName),
-			price = 750,
+			price = 400,
 			id = 3090,
 			validUntil = 90,
 			description = premiumDescription,
@@ -58,7 +58,7 @@ return {
 		{
 			icons = { "Premium_Time_180.png" },
 			name = string.format("180 Days of %s", premiumOfferName),
-			price = 1500,
+			price = 750,
 			id = 3180,
 			validUntil = 180,
 			description = premiumDescription,
@@ -67,7 +67,7 @@ return {
 		{
 			icons = { "Premium_Time_360.png" },
 			name = string.format("360 Days of %s", premiumOfferName),
-			price = 3000,
+			price = 1400,
 			id = 3360,
 			validUntil = 360,
 			description = premiumDescription,

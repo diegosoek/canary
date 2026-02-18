@@ -1,4 +1,5 @@
 local modules = {
+	"midrate_exclusives",
 	"premium_time",
 	"consumables",
 	"consumables_blessings",

@@ -8,7 +8,7 @@ return {
 		{
 			icons = { "Durable_Exercise_Axe.png" },
 			name = "Durable Exercise Axe",
-			price = 90,
+			price = 45,
 			itemtype = 35280,
 			charges = 1800,
 			description = "<i>Use it to train your axe fighting skill on an exercise dummy!</i>\n\n{character}\n{storeinbox}\n{info} use it on an exercise dummy to train your axe fighting skill\n{info} usable 1800 times a piece",
@@ -17,7 +17,7 @@ return {
 		{
 			icons = { "Durable_Exercise_Bow.png" },
 			name = "Durable Exercise Bow",
-			price = 90,
+			price = 45,
 			itemtype = 35282,
 			charges = 1800,
 			description = "<i>Use it to train your distance fighting skill on an exercise dummy!</i>\n\n{character}\n{storeinbox}\n{info} use it on an exercise dummy to train your distance fighting skill\n{info} usable 1800 times a piece",
@@ -26,7 +26,7 @@ return {
 		{
 			icons = { "Durable_Exercise_Club.png" },
 			name = "Durable Exercise Club",
-			price = 90,
+			price = 45,
 			itemtype = 35281,
 			charges = 1800,
 			description = "<i>Use it to train your club fighting skill on an exercise dummy!</i>\n\n{character}\n{storeinbox}\n{info} use it on an exercise dummy to train your club fighting skill\n{info} usable 1800 times a piece",
@@ -35,7 +35,7 @@ return {
 		{
 			icons = { "Durable_Exercise_Rod.png" },
 			name = "Durable Exercise Rod",
-			price = 90,
+			price = 45,
 			itemtype = 35283,
 			charges = 1800,
 			description = "<i>Use it to train your magic level on an exercise dummy!</i>\n\n{character}\n{storeinbox}\n{info} use it on an exercise dummy to train your magic level\n{info} usable 1800 times a piece",
@@ -44,7 +44,7 @@ return {
 		{
 			icons = { "Durable_Exercise_Sword.png" },
 			name = "Durable Exercise Sword",
-			price = 90,
+			price = 45,
 			itemtype = 35279,
 			charges = 1800,
 			description = "<i>Use it to train your sword fighting skill on an exercise dummy!</i>\n\n{character}\n{storeinbox}\n{info} use it on an exercise dummy to train your sword fighting skill\n{info} usable 1800 times a piece",
@@ -53,7 +53,7 @@ return {
 		{
 			icons = { "Durable_Exercise_Wand.png" },
 			name = "Durable Exercise Wand",
-			price = 90,
+			price = 45,
 			itemtype = 35284,
 			charges = 1800,
 			description = "<i>Use it to train your magic level on an exercise dummy!</i>\n\n{character}\n{storeinbox}\n{info} use it on an exercise dummy to train your magic level\n{info} usable 1800 times a piece",
@@ -62,7 +62,7 @@ return {
 		{
 			icons = { "Durable_Exercise_Shield.png" },
 			name = "Durable Exercise Shield",
-			price = 90,
+			price = 45,
 			itemtype = 44066,
 			charges = 1800,
 			description = "<i>Use it to train your shielding skill on an exercise dummy!</i>\n\n{character}\n{storeinbox}\n{info} use it on an exercise dummy to train your shielding skill\n{info} usable 1800 times a piece",
@@ -71,7 +71,7 @@ return {
 		{
 			icons = { "Exercise_Axe.png" },
 			name = "Exercise Axe",
-			price = 25,
+			price = 12,
 			itemtype = 28553,
 			charges = 500,
 			description = "<i>Use it to train your axe fighting skill on an exercise dummy!</i>\n\n{character}\n{storeinbox}\n{info} use it on an exercise dummy to train your axe fighting skill\n{info} usable 500 times a piece",
@@ -80,7 +80,7 @@ return {
 		{
 			icons = { "Exercise_Bow.png" },
 			name = "Exercise Bow",
-			price = 25,
+			price = 12,
 			itemtype = 28555,
 			charges = 500,
 			description = "<i>Use it to train your distance fighting skill on an exercise dummy!</i>\n\n{character}\n{storeinbox}\n{info} use it on an exercise dummy to train your distance fighting skill\n{info} usable 500 times a piece",
@@ -89,7 +89,7 @@ return {
 		{
 			icons = { "Exercise_Club.png" },
 			name = "Exercise Club",
-			price = 25,
+			price = 12,
 			itemtype = 28554,
 			charges = 500,
 			description = "<i>Use it to train your club fighting skill on an exercise dummy!</i>\n\n{character}\n{storeinbox}\n{info} use it on an exercise dummy to train your club fighting skill\n{info} usable 500 times a piece",
@@ -98,7 +98,7 @@ return {
 		{
 			icons = { "Exercise_Rod.png" },
 			name = "Exercise Rod",
-			price = 25,
+			price = 12,
 			itemtype = 28556,
 			charges = 500,
 			description = "<i>Use it to train your magic level on an exercise dummy!</i>\n\n{character}\n{storeinbox}\n{info} use it on an exercise dummy to train your magic level\n{info} usable 500 times a piece",
@@ -107,7 +107,7 @@ return {
 		{
 			icons = { "Exercise_Sword.png" },
 			name = "Exercise Sword",
-			price = 25,
+			price = 12,
 			itemtype = 28552,
 			charges = 500,
 			description = "<i>Use it to train your sword fighting skill on an exercise dummy!</i>\n\n{character}\n{storeinbox}\n{info} use it on an exercise dummy to train your sword fighting skill\n{info} usable 500 times a piece",
@@ -116,7 +116,7 @@ return {
 		{
 			icons = { "Exercise_Wand.png" },
 			name = "Exercise Wand",
-			price = 25,
+			price = 12,
 			itemtype = 28557,
 			charges = 500,
 			description = "<i>Use it to train your magic level on an exercise dummy!</i>\n\n{character}\n{storeinbox}\n{info} use it on an exercise dummy to train your magic level\n{info} usable 500 times a piece",
@@ -125,7 +125,7 @@ return {
 		{
 			icons = { "Exercise_Shield.png" },
 			name = "Exercise Shield",
-			price = 25,
+			price = 12,
 			itemtype = 44065,
 			charges = 500,
 			description = "<i>Use it to train your shielding skill on an exercise dummy!</i>\n\n{character}\n{storeinbox}\n{info} use it on an exercise dummy to train your shielding skill\n{info} usable 500 times a piece",
@@ -134,7 +134,7 @@ return {
 		{
 			icons = { "Lasting_Exercise_Axe.png" },
 			name = "Lasting Exercise Axe",
-			price = 720,
+			price = 360,
 			itemtype = 35286,
 			charges = 14400,
 			description = "<i>Use it to train your axe fighting skill on an exercise dummy!</i>\n\n{character}\n{storeinbox}\n{info} use it on an exercise dummy to train your axe fighting skill\n{info} usable 14400 times a piece",
@@ -143,7 +143,7 @@ return {
 		{
 			icons = { "Lasting_Exercise_Bow.png" },
 			name = "Lasting Exercise Bow",
-			price = 720,
+			price = 360,
 			itemtype = 35288,
 			charges = 14400,
 			description = "<i>Use it to train your distance fighting skill on an exercise dummy!</i>\n\n{character}\n{storeinbox}\n{info} use it on an exercise dummy to train your distance fighting skill\n{info} usable 14400 times a piece",
@@ -152,7 +152,7 @@ return {
 		{
 			icons = { "Lasting_Exercise_Club.png" },
 			name = "Lasting Exercise Club",
-			price = 720,
+			price = 360,
 			itemtype = 35287,
 			charges = 14400,
 			description = "<i>Use it to train your club fighting skill on an exercise dummy!</i>\n\n{character}\n{storeinbox}\n{info} use it on an exercise dummy to train your club fighting skill\n{info} usable 14400 times a piece",
@@ -161,7 +161,7 @@ return {
 		{
 			icons = { "Lasting_Exercise_Rod.png" },
 			name = "Lasting Exercise Rod",
-			price = 720,
+			price = 360,
 			itemtype = 35289,
 			charges = 14400,
 			description = "<i>Use it to train your magic level on an exercise dummy!</i>\n\n{character}\n{storeinbox}\n{info} use it on an exercise dummy to train your magic level\n{info} usable 14400 times a piece",
@@ -170,7 +170,7 @@ return {
 		{
 			icons = { "Lasting_Exercise_Sword.png" },
 			name = "Lasting Exercise Sword",
-			price = 720,
+			price = 360,
 			itemtype = 35285,
 			charges = 14400,
 			description = "<i>Use it to train your sword fighting skill on an exercise dummy!</i>\n\n{character}\n{storeinbox}\n{info} use it on an exercise dummy to train your sword fighting skill\n{info} usable 14400 times a piece",
@@ -179,7 +179,7 @@ return {
 		{
 			icons = { "Lasting_Exercise_Wand.png" },
 			name = "Lasting Exercise Wand",
-			price = 720,
+			price = 360,
 			itemtype = 35290,
 			charges = 14400,
 			description = "<i>Use it to train your magic level on an exercise dummy!</i>\n\n{character}\n{storeinbox}\n{info} use it on an exercise dummy to train your magic level\n{info} usable 14400 times a piece",
@@ -188,7 +188,7 @@ return {
 		{
 			icons = { "Lasting_Exercise_Shield.png" },
 			name = "Lasting Exercise Shield",
-			price = 720,
+			price = 360,
 			itemtype = 44067,
 			charges = 14400,
 			description = "<i>Use it to train your shielding skill on an exercise dummy!</i>\n\n{character}\n{storeinbox}\n{info} use it on an exercise dummy to train your shielding skill\n{info} usable 14400 times a piece",
